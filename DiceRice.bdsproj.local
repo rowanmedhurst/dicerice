@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/05/26 16:01:34.603.cpp,C:\Users\Rowan\Documents\Borland Studio Projects\Unit1.cpp=D:\dev\DiceRice\TFormMain.cpp</Transaction>
+    <Transaction>2018/05/26 16:01:34.603.h,C:\Users\Rowan\Documents\Borland Studio Projects\Unit1.h=D:\dev\DiceRice\TFormMain.h</Transaction>
+    <Transaction>2018/05/26 16:01:34.603.dfm,C:\Users\Rowan\Documents\Borland Studio Projects\Unit1.dfm=D:\dev\DiceRice\TFormMain.dfm</Transaction>
+    <Transaction>2018/05/26 16:01:40.916.bdsproj,C:\Users\Rowan\Documents\Borland Studio Projects\Project1.bdsproj=D:\dev\DiceRice\DiceRice.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
